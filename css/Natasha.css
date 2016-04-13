@@ -1,5 +1,9 @@
 body{
 	background-color: pink;
+	border-style: groove;
+	border-width: 15px;
+	border-color: grey;
+
 }
 h1 {
 	text-align: center;
